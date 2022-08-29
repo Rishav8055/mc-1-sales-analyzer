@@ -1,5 +1,6 @@
 package com.jap.sales;
 
+
 import com.jap.sales.SalesDataAnalyzer;
 import com.jap.sales.SalesRecord;
 import org.junit.After;
